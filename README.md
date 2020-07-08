@@ -8,6 +8,6 @@ A deep neural network model that classifies cat vs. non-cat images, with an 80% 
 
 ## To Run
 - Add your own number sign image in the images folder
-- Open the Convolution_model_Application_v1a.ipynb file in jupyter notebook
+- Open the Deep Neural Network - Application.ipynb file in jupyter notebook
 - Enter the name of the image that u put in images folder within the quotes
 - Click on Kernel -> Restart and Run All Cells
